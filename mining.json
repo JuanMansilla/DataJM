@@ -1,9 +1,9 @@
 {
 "nodes":[
-{"node":0,"name":"Tajeo 1"},
-{"node":1,"name":"Tajeo 2"},
-{"node":2,"name":"Pique A"},
-{"node":3,"name":"Rampa A"},
+{"node":0,"name":"Fase 3"},
+{"node":1,"name":"Fase 4"},
+{"node":2,"name":"Acceso Principal"},
+{"node":3,"name":"Stock Dinamico"},
 {"node":4,"name":"Planta"}
 ],
 "links":[
